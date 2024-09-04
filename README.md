@@ -1,7 +1,5 @@
 # 💻 **Yerson Fabian Garzon Rodriguez - Analista y Desarrollador de Software**
 
-![Profile Banner](https://yourbannerimageurl.com) <!-- Agrega un banner personalizado aquí -->
-
 ## 👋 **¡Hola! Bienvenido a mi GitHub**
 
 Soy un desarrollador de software apasionado, especializado en la creación de aplicaciones web eficientes y escalables. Mi objetivo es fusionar creatividad y tecnología para ofrecer soluciones innovadoras y de alto impacto.
@@ -27,7 +25,6 @@ Soy un desarrollador de software apasionado, especializado en la creación de ap
 
 ### 🌟 **FYLEC**
    - **Descripción:** FYLEC es un software web diseñado para la compra y venta de productos de ferreterías en línea, ofreciendo una experiencia de usuario intuitiva y un sistema de gestión eficiente.
-   - **Repositorio:** [🔗 Enlace al repositorio](https://github.com/usuario/proyecto)
    - **Demo:** [🌐 Ver demo](https://fylec.com.co)
    - **Tecnologías utilizadas:**
    <p>
@@ -43,7 +40,6 @@ Soy un desarrollador de software apasionado, especializado en la creación de ap
 
 Soy un desarrollador de software comprometido con la creación de soluciones tecnológicas que impacten positivamente en el mundo. Me motiva el aprendizaje continuo y la búsqueda de nuevos desafíos.
 
-- 🌐 **Sitio Web:** [tusitioweb.com](https://tusitioweb.com)
 - 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 - 📧 **Correo Electrónico:** rodriguezyerson2005@gmail.com
 
