@@ -28,6 +28,7 @@ Soy estudiante de Análisis y Desarrollo de Software en el SENA, con una sólida
 
 ### 🌟 **FYLEC**
    - **Descripción:** FYLEC es un software web diseñado para la compra y venta de productos de ferreterías en línea, optimizando la experiencia del usuario y la gestión eficiente de productos.
+   - **Repositorio:** [🔗 Enlace al repositorio](https://github.com/usuario/proyecto)
    - **Demo:** [🌐 Ver demo](https://fylec.com.co)
    - **Tecnologías utilizadas:**
    <p>
@@ -41,9 +42,9 @@ Soy estudiante de Análisis y Desarrollo de Software en el SENA, con una sólida
 
 ## 👨‍💼 **Sobre Mí**
 
-Me enfoco en el desarrollo de soluciones tecnológicas colaborativas que impacten positivamente. Tengo experiencia en equipos con un enfoque organizado. Busco siempre mejorar los procesos y optimizar la calidad de los proyectos.
+Me enfoco en el desarrollo de soluciones tecnológicas colaborativas que impacten positivamente. Tengo experiencia en equipos, aplicando prácticas de desarrollo Estructurado y organizado. Busco siempre mejorar los procesos y optimizar la calidad de los proyectos.
 
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/yerson-rodriguez)
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/yerson-rodriguez/)
 - 📧 **Correo Electrónico:** rodriguezyerson2005@gmail.com
 
 ---
@@ -66,7 +67,7 @@ Me enfoco en el desarrollo de soluciones tecnológicas colaborativas que impacte
 
 ## 🏆 **Certificaciones**
 
-- 🏅 **ENGLISH DOES WORK - LEVEL 1, 2, 3, 4**
+- 🏅 **ENGLISH DOES WORK - LEVEL 1, 2, 3**
 - 🏅 **Desarrollo Web con PHP**
 
 ---
