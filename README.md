@@ -28,7 +28,6 @@ Soy estudiante de Análisis y Desarrollo de Software en el SENA, con una sólida
 
 ### 🌟 **FYLEC**
    - **Descripción:** FYLEC es un software web diseñado para la compra y venta de productos de ferreterías en línea, optimizando la experiencia del usuario y la gestión eficiente de productos.
-   - **Repositorio:** [🔗 Enlace al repositorio](https://github.com/usuario/proyecto)
    - **Demo:** [🌐 Ver demo](https://fylec.com.co)
    - **Tecnologías utilizadas:**
    <p>
