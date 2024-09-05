@@ -2,7 +2,7 @@
 
 ## 👋 **¡Hola! Bienvenido a mi GitHub**
 
-Soy estudiante de Análisis y Desarrollo de Software en el SENA, con una sólida formación en frontend y backend. He trabajado en la creación de aplicaciones web usando tecnologías como HTML, CSS, JavaScript, PHP, y frameworks como Django y Node.js. Mi experiencia incluye el desarrollo de aplicaciones web en equipos académicos que simulan entornos laborales reales, siempre buscando optimizar la eficiencia y mejorar la experiencia del usuario.
+Soy estudiante de Análisis y Desarrollo de Software en el SENA, con conocimientos intermedios en frontend y un manejo básico de backend. He trabajado en la creación de aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, PHP, y frameworks como Django y Node.js. Mi experiencia abarca el desarrollo de aplicaciones web en equipos académicos que simulan entornos laborales, siempre enfocándome en optimizar la eficiencia y mejorar la experiencia del usuario.
 
 ---
 
@@ -66,7 +66,7 @@ Me enfoco en el desarrollo de soluciones tecnológicas colaborativas que impacte
 
 ## 🏆 **Certificaciones**
 
-- 🏅 **ENGLISH DOES WORK - LEVEL 1, 2, 3**
+- 🏅 **ENGLISH DOES WORK - LEVEL 1, 2, 3, 4**
 - 🏅 **Desarrollo Web con PHP**
 
 ---
