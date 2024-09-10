@@ -57,8 +57,8 @@ Me enfoco en el desarrollo de soluciones tecnológicas colaborativas que impacte
 ## 📊 **Estadísticas de GitHub**
 
 <div align="center" style="background-color:#f5f5f5; padding:20px; border-radius:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YersonRodriguez2005&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YersonRodriguez2005&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
