@@ -2,7 +2,7 @@
 
 ## 👋 **¡Hola! Bienvenido a mi GitHub**
 
-Soy estudiante de Análisis y Desarrollo de Software en el SENA, con conocimientos intermedios en frontend y un manejo básico de backend. He trabajado en la creación de aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, PHP, y frameworks como Django y Node.js. Mi experiencia abarca el desarrollo de aplicaciones web en equipos académicos que simulan entornos laborales, siempre enfocándome en optimizar la eficiencia y mejorar la experiencia del usuario.
+Soy aprendiz en la Tecnología en Análisis y Desarrollo de Software en el SENA, con experiencia práctica en la creación de aplicaciones web. He trabajado con tecnologías como HTML, CSS y JavaScript, utilizando frameworks como React en la parte del (Frontend). También tengo experiencia en (Backend) con lenguajes como PHP y Python, junto con frameworks como Django. Durante mi formación, he aplicado estos conocimientos en proyectos académicos que simulan entornos laborales reales, lo que me ha permitido desarrollar sólidas habilidades técnicas y trabajar de manera efectiva en equipos de desarrollo.
 
 ---
 
@@ -15,7 +15,6 @@ Soy estudiante de Análisis y Desarrollo de Software en el SENA, con conocimient
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
