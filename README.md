@@ -42,7 +42,7 @@ Soy aprendiz en la Tecnología en Análisis y Desarrollo de Software en el SENA,
 
 Me enfoco en el desarrollo de soluciones tecnológicas colaborativas que impacten positivamente. Tengo experiencia en equipos, aplicando prácticas de desarrollo Estructurado y organizado. Busco siempre mejorar los procesos y optimizar la calidad de los proyectos.
 
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/yerson-rodriguez/)
+- 💼 **LinkedIn:** [linkedin.com/in/yerson-rodriguez](https://www.linkedin.com/in/yerson-rodriguez/)
 - 📧 **Correo Electrónico:** rodriguezyerson2005@gmail.com
 
 ---
