@@ -1,8 +1,8 @@
-# 💻 **Yerson Fabian Garzon Rodriguez - Estudiante de Análisis y Desarrollo de Software**
+# 💻 **Yerson Fabian Garzon Rodriguez - Analista y Desarrollador de Software**
 
 ## 👋 **¡Hola! Bienvenido a mi GitHub**
 
-Soy aprendiz en la Tecnología en Análisis y Desarrollo de Software en el SENA, con experiencia práctica en la creación de aplicaciones web. He trabajado con tecnologías como HTML, CSS y JavaScript, utilizando frameworks como React en la parte del (Frontend). También tengo experiencia en (Backend) con lenguajes como PHP y Python, junto con frameworks como Django. Durante mi formación, he aplicado estos conocimientos en proyectos académicos que simulan entornos laborales reales, lo que me ha permitido desarrollar sólidas habilidades técnicas y trabajar de manera efectiva en equipos de desarrollo.
+Analista y Desarrollador de Software en el SENA, con experiencia práctica en la creación de aplicaciones web. He trabajado con tecnologías como HTML, CSS y JavaScript, utilizando frameworks como React en la parte del (Frontend). También tengo experiencia en (Backend) con lenguajes como PHP y Python, junto con frameworks como Django. Durante mi formación, he aplicado estos conocimientos en proyectos académicos que simulan entornos laborales reales, lo que me ha permitido desarrollar sólidas habilidades técnicas y trabajar de manera efectiva en equipos de desarrollo.
 
 ---
 
