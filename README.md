@@ -65,8 +65,11 @@ Me enfoco en el desarrollo de soluciones tecnológicas colaborativas que impacte
 
 ## 🏆 **Certificaciones**
 
-- 🏅 **ENGLISH DOES WORK - LEVEL 1, 2, 3, 4**
+- 🏅 **ENGLISH DOES WORK - LEVEL 1, 2, 3, 4, 5**
 - 🏅 **Desarrollo Web con PHP**
+- 🏅 **Introduccion a Sistemas de Automatización**
+- 🏅 **Metodologia de Programacion de Sistemas Informaticos**
+- 🏅 **Procesos Para Software De Calidad**
 
 ---
 
