@@ -51,8 +51,8 @@ Mi stack tecnológico incluye herramientas tanto para el Frontend como para el B
 
 Siempre estoy abierto a nuevas oportunidades, colaboraciones y retos tecnológicos. ¡No dudes en contactarme!
 
-- 💼 **LinkedIn:** [YersonRodriguez](https://www.linkedin.com/in/YersonRodriguez)
-- 🌐 **Portafolio:** [Visitar mi Portafolio Web](#) *(Añade aquí el link a tu portafolio)*
+- 💼 **LinkedIn:** [YersonRodriguez](https://www.linkedin.com/in/yerson-rodriguez/)
+- 🌐 **Portafolio:** [Visitar mi Portafolio Web](https://yerson-rodriguez-portafolio-9nel.vercel.app/) 
 - 📧 **Correo Electrónico:** rodriguezyerson2005@gmail.com
 
 ---
@@ -60,8 +60,11 @@ Siempre estoy abierto a nuevas oportunidades, colaboraciones y retos tecnológic
 ## 📊 **Estadísticas de GitHub**
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YersonRodriguez2005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YersonRodriguez2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YersonRodriguez2005&show_icons=true&theme=radical&hide_border=true)](https://github.com/YersonRodriguez2005)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YersonRodriguez2005&layout=compact&theme=radical&hide_border=true)](https://github.com/YersonRodriguez2005)
+
 </div>
 
 <br>
