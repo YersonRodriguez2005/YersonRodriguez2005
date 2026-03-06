@@ -1,78 +1,70 @@
-# 💻 **Yerson Fabian Garzon Rodriguez - Analista y Desarrollador de Software**
+# 💻 **Yerson Fabian Garzon Rodriguez - Desarrollador de Software Web**
 
-## 👋 **¡Hola! Bienvenido a mi GitHub**
+## 👋 **¡Hola! Bienvenido a mi perfil de GitHub**
 
-Analista y Desarrollador de Software en el SENA, con experiencia práctica en la creación de aplicaciones web. He trabajado con tecnologías como HTML, CSS y JavaScript, utilizando frameworks como React en la parte del (Frontend). También tengo experiencia en (Backend) con lenguajes como PHP y Python, junto con frameworks como Django. Durante mi formación, he aplicado estos conocimientos en proyectos académicos que simulan entornos laborales reales, lo que me ha permitido desarrollar sólidas habilidades técnicas y trabajar de manera efectiva en equipos de desarrollo.
+Soy un **Desarrollador de Software Web** radicado en Neiva, Colombia, enfocado en el diseño y desarrollo de aplicaciones web eficientes, escalables y con una excelente experiencia de usuario. 
+
+Me caracterizo por mi capacidad de aprendizaje continuo, pensamiento analítico y trabajo colaborativo bajo metodologías ágiles como Scrum. Busco constantemente construir soluciones integrales que aporten valor al negocio y optimicen procesos internos.
 
 ---
 
 ## 🔧 **Tecnologías y Herramientas**
 
-<div align="center" style="background-color:#f5f5f5; padding:20px; border-radius:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MariaDB" />
+Mi stack tecnológico incluye herramientas tanto para el Frontend como para el Backend, abarcando bases de datos y control de versiones:
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,nodejs,express,php,mysql,postgres,git,github,postman&perline=8" alt="Mis Habilidades" />
+  </a>
 </div>
 
 ---
 
-## 🚀 **Proyectos Destacados**
+## 💼 **Experiencia Profesional**
 
-### 🌟 **FYLEC**
-   - **Descripción:** FYLEC es un software web diseñado para la compra y venta de productos de ferreterías en línea, optimizando la experiencia del usuario y la gestión eficiente de productos.
-   - **Demo:** [🌐 Ver demo](https://fylec.com.co)
-   - **Tecnologías utilizadas:**
-   <p>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
-   </p>
-
----
-
-## 👨‍💼 **Sobre Mí**
-
-Me enfoco en el desarrollo de soluciones tecnológicas colaborativas que impacten positivamente. Tengo experiencia en equipos, aplicando prácticas de desarrollo Estructurado y organizado. Busco siempre mejorar los procesos y optimizar la calidad de los proyectos.
-
-- 💼 **LinkedIn:** [linkedin.com/in/yerson-rodriguez](https://www.linkedin.com/in/yerson-rodriguez/)
-- 📧 **Correo Electrónico:** rodriguezyerson2005@gmail.com
+### 💻 **Desarrollador de Software Web** | *Petrol Services y Cia SAS* (Nov 2024 - May 2025)
+- Desarrollo e implementación de aplicaciones web para automatizar procesos administrativos y mejorar la eficiencia operativa.
+- **Tecnologías:** React con Vite y TailwindCSS (Frontend), Express con Node.js (Backend) y JsonBin para el almacenamiento en la nube.
 
 ---
 
 ## 📚 **Educación**
 
-- 🎓 **Análisis y Desarrollo de Software** (2024/10) - Servicio Nacional de Aprendizaje (SENA), Colombia
-- 🎓 **Bachiller Académico** (2022/11) - Institución Educativa Nuestra Señora del Socorro, El Pital, Colombia
+- 🎓 **Ingeniería de Software** - *Corporación Universitaria Iberoamericana* (Cursando)
+- 🎓 **Tecnología en Análisis y Desarrollo de Software** - *Servicio Nacional de Aprendizaje (SENA)*
+- 🎓 **Bachiller Académico** - *Institución Educativa Nuestra Señora del Socorro* (2022)
+
+---
+
+## 🏆 **Certificaciones Destacadas**
+
+- 🏅 **Remote Work Professional Certification - RWPCM** (2025)
+- 🏅 **Aplicación del marco de trabajo Scrum para proyectos de desarrollo de software**
+- 🏅 **Procesos para Software de Calidad**
+- 🏅 **Manejo de Pruebas de Software**
+- 🏅 **Administrador de Base de Datos**
+- 🏅 **English Does Work** (Niveles 1 al 5)
+
+---
+
+## 👨‍💼 **Conecta conmigo**
+
+Siempre estoy abierto a nuevas oportunidades, colaboraciones y retos tecnológicos. ¡No dudes en contactarme!
+
+- 💼 **LinkedIn:** [YersonRodriguez](https://www.linkedin.com/in/YersonRodriguez)
+- 🌐 **Portafolio:** [Visitar mi Portafolio Web](#) *(Añade aquí el link a tu portafolio)*
+- 📧 **Correo Electrónico:** rodriguezyerson2005@gmail.com
 
 ---
 
 ## 📊 **Estadísticas de GitHub**
 
-<div align="center" style="background-color:#f5f5f5; padding:20px; border-radius:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YersonRodriguez2005&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YersonRodriguez2005&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YersonRodriguez05&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YersonRodriguez05&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
-## 🏆 **Certificaciones**
-
-- 🏅 **ENGLISH DOES WORK - LEVEL 1, 2, 3, 4, 5**
-- 🏅 **Desarrollo Web con PHP**
-- 🏅 **Introduccion a Sistemas de Automatización**
-- 🏅 **Metodologia de Programacion de Sistemas Informaticos**
-- 🏅 **Procesos Para Software De Calidad**
-
----
-
+<br>
 <p align="center">
-    ¡Gracias por visitar mi perfil de GitHub! Si te gustan mis proyectos, no dudes en darle una estrella ⭐ y conectarte conmigo para futuras colaboraciones.
+    ¡Gracias por visitar mi perfil! Si te gustan mis repositorios o te resulta útil mi código, no dudes en dejar una estrella ⭐.
 </p>
