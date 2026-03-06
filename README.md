@@ -14,7 +14,7 @@ Mi stack tecnológico incluye herramientas tanto para el Frontend como para el B
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,nodejs,express,php,mysql,postgres,git,github,postman&perline=8" alt="Mis Habilidades" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,php,mysql,postgres,git,github,postman&perline=8" alt="Mis Habilidades" />
   </a>
 </div>
 
