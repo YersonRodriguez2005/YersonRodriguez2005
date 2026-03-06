@@ -59,13 +59,10 @@ Siempre estoy abierto a nuevas oportunidades, colaboraciones y retos tecnológic
 
 ## 📊 **Estadísticas de GitHub**
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YersonRodriguez2005&show_icons=true&theme=radical&hide_border=true&v=1)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YersonRodriguez2005&show_icons=true&theme=radical&hide_border=true)](https://github.com/YersonRodriguez2005)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YersonRodriguez2005&layout=compact&theme=radical&hide_border=true&v=1)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YersonRodriguez2005&layout=compact&theme=radical&hide_border=true)](https://github.com/YersonRodriguez2005)
-
-</div>
 
 <br>
 <p align="center">
