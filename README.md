@@ -1,68 +1,118 @@
 <div align="center">
+  <!-- Cabecera -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003554,80:00D9FF&height=200&section=header&text=Yerson%20Garzon%20Rodriguez&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=Desarrollador%20de%20Software%20Web%20%7C%20Neiva%2C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=17&descAlignY=62&animation=fadeIn" alt="Header Yerson Garzon" />
+  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003554,80:00D9FF&height=200&section=header&text=Yerson%20Garzon%20Rodriguez&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=Desarrollador%20de%20Software%20Web%20%7C%20Neiva%2C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=17&descAlignY=62&animation=fadeIn" />
+  <!-- Animación de escritura -->
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1400&color=00D9FF&background=00000000&center=true&vCenter=true&repeat=true&width=720&height=58&lines=⚡+Desarrollador+Web+Fullstack;⚛️+React+%7C+Node.js+%7C+TypeScript+%7C+Express;🧩+Construyendo+soluciones+eficientes+y+escalables;🤝+Scrum+%7C+Agile+%7C+Trabajo+colaborativo;📬+Abierto+a+nuevas+oportunidades)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1400&color=00D9FF&background=00000000&center=true&vCenter=true&repeat=true&width=720&height=58&lines=⚡+Desarrollador+Web+Fullstack;⚛️+React+%7C+Node.js+%7C+TypeScript+%7C+Express;🧩+Construyendo+soluciones+eficientes+y+escalables;🤝+Scrum+%7C+Agile+%7C+Trabajo+colaborativo;📬+Abierto+a+nuevas+oportunidades)
+  
 
-</div>
+  <!-- Sección de Contacto -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> 
+    Conecta conmigo
+  </h3>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/yerson-rodriguez/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>&nbsp;
+    <a href="https://yerson-rodriguez-portafolio-9nel.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio_Web-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portafolio" />
+    </a>&nbsp;
+    <a href="mailto:rodriguezyerson2005@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerson-rodriguez/)
-[![Portfolio](https://img.shields.io/badge/Portafolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://yerson-rodriguez-portafolio-9nel.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodriguezyerson2005@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=YersonRodriguez&style=for-the-badge&color=00D9FF&label=VISITAS)](https://github.com/YersonRodriguez)
-
+  <!-- Visitas -->
+  <p align="center">
+    <a href="https://github.com/YersonRodriguez">
+      <img src="https://komarev.com/ghpvc/?username=YersonRodriguez&style=for-the-badge&color=00D9FF&label=VISITAS%20DEL%20PERFIL&base=222222" alt="Profile views" />
+    </a>
+  </p>
 </div>
 
 ---
 
+<br/>
+
 ## 🧑‍💻 Sobre mí
 
-Soy un **Desarrollador de Software Web** radicado en **Neiva, Colombia**, enfocado en construir aplicaciones web eficientes, escalables y con excelente experiencia de usuario.
+<br/>
 
-```yaml
-nombre:       Yerson Fabian Garzon Rodriguez
-ubicación:    Neiva, Colombia 🇨🇴
-rol:          Desarrollador Web Fullstack
-metodología:  Scrum / Metodologías Ágiles
-disponible:   Abierto a nuevas oportunidades ✅
-```
+<table width="100%">
+<tr>
+<td width="54%" valign="top">
+
+Soy un **Desarrollador de Software Web** radicado en **Neiva, Colombia**, enfocado en construir aplicaciones web **eficientes, escalables** y con excelente experiencia de usuario.
+
+<br/>
+
+<table>
+  <tr><td>👤 <b>Nombre</b></td><td>Yerson Fabian Garzon Rodriguez</td></tr>
+  <tr><td>📍 <b>Ubicación</b></td><td>Neiva, Colombia 🇨🇴</td></tr>
+  <tr><td>💼 <b>Rol</b></td><td>Desarrollador Web Fullstack</td></tr>
+  <tr><td>⚙️ <b>Metodología</b></td><td>Scrum / Metodologías Ágiles</td></tr>
+  <tr><td>🟢 <b>Disponible</b></td><td>Abierto a nuevas oportunidades</td></tr>
+</table>
+
+<br/>
 
 > 💡 *Me caracterizo por mi aprendizaje continuo, pensamiento analítico y la capacidad de construir soluciones que aportan valor real al negocio.*
+
+</td>
+<td width="46%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding" style="border-radius:12px"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔧 Stack Tecnológico
 
+<br/>
+
 <div align="center">
 
-**Frontend**
+<table>
+<tr>
+<td align="center" width="50%">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**🎨 Frontend**
+<br/><br/>
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=6)](https://skillicons.dev)
 
-**Backend**
+</td>
+<td align="center" width="50%">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+**⚙️ Backend**
+<br/><br/>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=6)](https://skillicons.dev)
 
-**Bases de Datos**
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**🗄️ Bases de Datos**
+<br/><br/>
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=6)](https://skillicons.dev)
 
-**Herramientas**
+</td>
+<td align="center" width="50%">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+**🛠️ Herramientas**
+<br/><br/>
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,vite&theme=dark&perline=6)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -70,14 +120,17 @@ disponible:   Abierto a nuevas oportunidades ✅
 
 ## 📊 GitHub Stats
 
+<br/>
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YersonRodriguez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YersonRodriguez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YersonRodriguez2005&bg_color=0d1117&color=00D9FF&line=00D9FF&point=58A6FF&area=true&hide_border=true&area_color=003554&radius=6&custom_title=Actividad%20de%20Contribuciones" alt="Contribution Graph" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YersonRodriguez&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YersonRodriguez2005&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -85,43 +138,100 @@ disponible:   Abierto a nuevas oportunidades ✅
 
 ## 💼 Experiencia Profesional
 
-### 🏢 Petrol Services y Cia SAS — *Desarrollador de Software Web*
-`Nov 2024 – May 2025` · Neiva, Colombia
+<br/>
 
-- 🔨 Desarrollo e implementación de aplicaciones web para **automatizar procesos administrativos** y mejorar la eficiencia operativa.
-- ⚙️ **Stack utilizado:** React + Vite + TailwindCSS · Express + Node.js · JsonBin (almacenamiento cloud)
+<table width="100%">
+<tr>
+<td width="3%" align="center" valign="top">
+<img src="https://img.shields.io/badge/--%20-00D9FF?style=flat&logoColor=white" height="100%" />
+</td>
+<td width="97%" valign="top" style="padding-left: 12px">
+
+<img src="https://img.shields.io/badge/Nov%202024%20–%20May%202025-0d1117?style=flat-square&labelColor=003554&color=00D9FF" />
+
+### 🏢 Petrol Services y Cia SAS &nbsp;—&nbsp; *Desarrollador de Software Web*
+📍 Neiva, Colombia
+
+<br/>
+
+- 🔨 Desarrollo e implementación de aplicaciones web para **automatizar procesos administrativos** y mejorar la eficiencia operativa de la empresa.
+- 📈 Optimización de flujos internos mediante soluciones digitales a medida, reduciendo tiempos de gestión manual.
+
+<br/>
+
+**Stack utilizado:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black)
+![JsonBin](https://img.shields.io/badge/JsonBin-FF6B35?style=flat-square&logo=json&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Educación
 
-| 🎓 Título | 🏫 Institución | 📅 Estado |
-|---|---|---|
-| Ingeniería de Software | Corporación Universitaria Iberoamericana | En curso |
-| Tecnología en Análisis y Desarrollo de Software | SENA | Graduado |
-| Bachiller Académico | I.E. Nuestra Señora del Socorro | Graduado |
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center">🎓</td>
+<td><b>Ingeniería de Software</b><br/><sub>Corporación Universitaria Iberoamericana</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/En%20Curso-00D9FF?style=flat-square&logoColor=white" /></td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr>
+<td align="center">🎓</td>
+<td><b>Tecnología en Análisis y Desarrollo de Software</b><br/><sub>Servicio Nacional de Aprendizaje — SENA</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Graduado-2EA043?style=flat-square&logoColor=white" /></td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr>
+<td align="center">🎓</td>
+<td><b>Bachiller Académico</b><br/><sub>I.E. Nuestra Señora del Socorro</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Graduado%202022-2EA043?style=flat-square&logoColor=white" /></td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Certificaciones
 
+<br/>
+
 <details>
-<summary><b>Ver todas las certificaciones</b></summary>
+<summary>&nbsp;&nbsp;<b>📋 Ver todas las certificaciones (9)</b>&nbsp;&nbsp;</summary>
 
 <br/>
 
-| 🏅 Certificación | 📆 Año |
-|---|---|
-| Remote Work Professional Certification — RWPCM | 2025 |
-| Aplicación del marco de trabajo Scrum para proyectos de desarrollo de software | 2025 |
-| Procesos para Software de Calidad | 2024 |
-| Manejo de Pruebas de Software | 2025 |
-| Administrador de Base de Datos | 2025 |
-| English Does Work (Niveles 1 al 5) | - |
-| Desarrollador Backend | 2026 |
-| Desarrollador Frontend | 2026 |
-| FullStack Application Development - Node, React y MySQL | 2026 |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
+&nbsp;🏅 **Remote Work Professional Certification — RWPCM**&nbsp;&nbsp;<img src="https://img.shields.io/badge/2025-003554?style=flat-square" /><br/><br/>
+&nbsp;🏅 **Desarrollador Backend**&nbsp;&nbsp;<img src="https://img.shields.io/badge/2026-003554?style=flat-square" /><br/><br/>
+&nbsp;🏅 **Desarrollador Frontend**&nbsp;&nbsp;<img src="https://img.shields.io/badge/2026-003554?style=flat-square" /><br/><br/>
+&nbsp;🏅 **FullStack App Dev — Node, React y MySQL**&nbsp;&nbsp;<img src="https://img.shields.io/badge/2026-003554?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;🏅 **Aplicación del marco de trabajo Scrum**&nbsp;&nbsp;<img src="https://img.shields.io/badge/2025-003554?style=flat-square" /><br/><br/>
+&nbsp;🏅 **Procesos para Software de Calidad**&nbsp;&nbsp;<img src="https://img.shields.io/badge/2024-003554?style=flat-square" /><br/><br/>
+&nbsp;🏅 **Manejo de Pruebas de Software**&nbsp;&nbsp;<img src="https://img.shields.io/badge/2025-003554?style=flat-square" /><br/><br/>
+&nbsp;🏅 **Administrador de Base de Datos**&nbsp;&nbsp;<img src="https://img.shields.io/badge/2025-003554?style=flat-square" /><br/><br/>
+&nbsp;🏅 **English Does Work (Niveles 1 al 5)**
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 </details>
 
@@ -131,16 +241,16 @@ disponible:   Abierto a nuevas oportunidades ✅
 
 <div align="center">
 
-Siempre estoy abierto a nuevas oportunidades, colaboraciones y retos tecnológicos.
-
-**¿Tienes un proyecto en mente? ¡Hablemos!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yerson%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yerson-rodriguez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yerson%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerson-rodriguez/)
+&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portafolio-Ver%20mi%20trabajo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://yerson-rodriguez-portafolio-9nel.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-rodriguezyerson2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:rodriguezyerson2005@gmail.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Escribeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodriguezyerson2005@gmail.com)
 
-<br/>
 
-*¡Gracias por visitar mi perfil! Si algún repositorio te fue útil, una ⭐ siempre se agradece.* 😊
+<sub>Si algún repositorio te fue útil, una ⭐ siempre se agradece 😊</sub>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003554,100:00D9FF&height=130&section=footer&reversal=false" />
 
 </div>
