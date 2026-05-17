@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Yerson+Garzon+%F0%9F%91%8B;Desarrollador+de+Software+Web;Frontend+%7C+Backend+%7C+Fullstack;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&color=133463&width=600&lines=Hola%2C+soy+Yerson+Rodriguez+%F0%9F%91%8B;Desarrollador+Software;Frontend;Backend;Fullstack" alt="Typing SVG" />
+```http://googleusercontent.com/image_generation_content/186
 
 <br/>
 
