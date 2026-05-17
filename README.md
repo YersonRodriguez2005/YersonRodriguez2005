@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003554,80:00D9FF&height=200&section=header&text=Yerson%20Garzon%20Rodriguez&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=Desarrollador%20de%20Software%20Web%20%7C%20Neiva%2C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=17&descAlignY=62&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1400&color=00D9FF&background=00000000&center=true&vCenter=true&repeat=true&width=720&height=58&lines=⚡+Desarrollador+Web+Fullstack;⚛️+React+%7C+Node.js+%7C+TypeScript+%7C+Express;🧩+Construyendo+soluciones+eficientes+y+escalables;🤝+Scrum+%7C+Agile+%7C+Trabajo+colaborativo;📬+Abierto+a+nuevas+oportunidades" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1400&color=00D9FF&background=00000000&center=true&vCenter=true&repeat=true&width=720&height=58&lines=⚡+Desarrollador+Web+Fullstack;⚛️+React+%7C+Node.js+%7C+TypeScript+%7C+Express;🧩+Construyendo+soluciones+eficientes+y+escalables;🤝+Scrum+%7C+Agile+%7C+Trabajo+colaborativo;📬+Abierto+a+nuevas+oportunidades)
 
 </div>
 
