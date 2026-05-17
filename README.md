@@ -178,27 +178,36 @@ Soy un **Desarrollador de Software Web** radicado en **Neiva, Colombia**, enfoca
 
 <br/>
 
-<table width="100%">
-<tr>
-<td align="center">🎓</td>
-<td><b>Ingeniería de Software</b><br/><sub>Corporación Universitaria Iberoamericana</sub></td>
-<td align="center"><img src="https://img.shields.io/badge/En%20Curso-00D9FF?style=flat-square&logoColor=white" /></td>
-</tr>
-<tr><td colspan="3">&nbsp;</td></tr>
-<tr>
-<td align="center">🎓</td>
-<td><b>Tecnología en Análisis y Desarrollo de Software</b><br/><sub>Servicio Nacional de Aprendizaje — SENA</sub></td>
-<td align="center"><img src="https://img.shields.io/badge/Graduado-2EA043?style=flat-square&logoColor=white" /></td>
-</tr>
-<tr><td colspan="3">&nbsp;</td></tr>
-<tr>
-<td align="center">🎓</td>
-<td><b>Bachiller Académico</b><br/><sub>I.E. Nuestra Señora del Socorro</sub></td>
-<td align="center"><img src="https://img.shields.io/badge/Graduado%202022-2EA043?style=flat-square&logoColor=white" /></td>
-</tr>
+<table width="100%" align="center">
+  <tr>
+    <td width="65%" valign="top">
+      <table width="100%">
+        <tr>
+          <td align="center">🎓</td>
+          <td><b>Ingeniería de Software</b><br/><sub>Corporación Universitaria Iberoamericana</sub></td>
+          <td align="center"><img src="https://img.shields.io/badge/En%20Curso-00D9FF?style=flat-square&logoColor=white" /></td>
+        </tr>
+        <tr><td colspan="3">&nbsp;</td></tr>
+        <tr>
+          <td align="center">🎓</td>
+          <td><b>Tecnología en Análisis y Desarrollo de Software</b><br/><sub>Servicio Nacional de Aprendizaje — SENA</sub></td>
+          <td align="center"><img src="https://img.shields.io/badge/Graduado-2EA043?style=flat-square&logoColor=white" /></td>
+        </tr>
+        <tr><td colspan="3">&nbsp;</td></tr>
+        <tr>
+          <td align="center">🎓</td>
+          <td><b>Bachiller Académico</b><br/><sub>I.E. Nuestra Señora del Socorro</sub></td>
+          <td align="center"><img src="https://img.shields.io/badge/Graduado%202022-2EA043?style=flat-square&logoColor=white" /></td>
+        </tr>
+      </table>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Estudiante animado" width="160" />
+    </td>
+  </tr>
 </table>
 
----
+----
 
 ## 🏆 Certificaciones
 
